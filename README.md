@@ -1,5 +1,5 @@
 ## TurtleSim A* Path Planning with NVIDIA LLM Agent
-This project integrates ROS (Robot Operating System), A* path planning algorithm, and Meta LLaMA-3.1-405B-Instruct NVIDIA Model Agent to control a turtle in a simulated environment. The turtle navigates from a start position to a goal position while avoiding obstacles. Users can interact with the agent through terminal commands to create obstacles and command the turtle to move to specific positions.
+This project integrates <b>ROS (Robot Operating System)</b>, <b>A* path planning algorithm</b>, and <b>Meta LLaMA-3.1-405B-Instruct NVIDIA Model Agent</b> to control a turtle in a simulated environment. The turtle navigates from a start position to a goal position while avoiding obstacles. Users can interact with the agent through terminal commands to create obstacles and command the turtle to move to specific positions.
 
 # Table of Contents
 
