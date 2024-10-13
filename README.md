@@ -1,7 +1,7 @@
 https://github.com/user-attachments/assets/6def582f-1843-479f-badb-4657942ef397
 
 ## TurtleSim A* Path Planning with Meta LLaMA-3.1-405B-Instruct model powered by NVIDIA / LlamaIndex Agent
-Integrate the <b>ROS (Robot Operating System)</b>, <b>A* path planning algorithm</b>, <b>LlamaIndex</b>, and <b>Meta's LLaMA-3.1-405B-Instruct model</b>, powered by NVIDIA, to control a turtle in a simulated environment. The turtle navigates from a starting position to a goal while avoiding obstacles. Users can interact with the agent via terminal commands to create obstacles and direct the turtle to specific locations.
+Integrate the <b>ROS (Robot Operating System)</b>, <b>A* path planning algorithm</b>, <b>LlamaIndex</b>, and <b>Meta's LLaMA-3.1-405B-Instruct model</b> to control a turtle in a simulated environment. The turtle navigates from a starting position to a goal while avoiding obstacles. Users can interact with the agent via terminal commands to create obstacles and direct the turtle to specific locations.
 
 # Table of Contents
 
