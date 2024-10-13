@@ -127,7 +127,6 @@ S * X . . . . . . . .
 - ```TurtleController``` Class: Manages the turtle's movement, obstacle creation, and agent interactions.
 - ```AStarPlanner``` Class: Implements the A* path planning algorithm.
 - ```FunctionTool```: Wraps functions to be used as tools by the NVIDIA LLM agent.
-- Agent Interaction: Uses NVIDIA's language model to interpret natural language commands.
 
 ## Key Methods
 - ```create_obstacle_turtles(num_obstacles: int)```: Creates obstacles in the simulation.
