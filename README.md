@@ -1,7 +1,7 @@
 https://github.com/user-attachments/assets/6def582f-1843-479f-badb-4657942ef397
 
-## TurtleSim A* Path Planning with NVIDIA LLM Agent
-This project integrates <b>ROS (Robot Operating System)</b>, <b>A* path planning algorithm</b>, <b>LlamaIndex</b> and <b>Meta LLaMA-3.1-405B-Instruct NVIDIA Model Agent</b> to control a turtle in a simulated environment. The turtle navigates from a start position to a goal position while avoiding obstacles. Users can interact with the agent through terminal commands to create obstacles and command the turtle to move to specific positions.
+## TurtleSim A* Path Planning with Meta LLaMA-3.1-405B-Instruct model powered by NVIDIA / LlamaIndex Agent
+Integrate the <b>ROS (Robot Operating System)</b>, <b>A* path planning algorithm</b>, <b>LlamaIndex</b>, and <b>Meta's LLaMA-3.1-405B-Instruct model</b>, powered by NVIDIA, to control a turtle in a simulated environment. The turtle navigates from a starting position to a goal while avoiding obstacles. Users can interact with the agent via terminal commands to create obstacles and direct the turtle to specific locations.
 
 # Table of Contents
 
@@ -18,8 +18,8 @@ This project integrates <b>ROS (Robot Operating System)</b>, <b>A* path planning
 
 # Features
 - NVIDIA Language Model: Employs <b>Meta LLaMA-3.1-405B-Instruct</b> NVIDIA's LLM for natural language processing of commands.
-- A* Path Planning: Calculates the shortest path while avoiding obstacles.
 - LlamaIndex Integration: Utilizes LlamaIndex for building tools for the NVIDIA LLM agent.
+- A* Path Planning: Calculates the shortest path while avoiding obstacles.
 - Dynamic Command Processing: Send commands to the agent in real-time via the terminal.
 - Obstacle Management: Create and clear obstacles in the simulation.
 - Visual Grid Display: Shows the grid, obstacles, and the path in the terminal.
