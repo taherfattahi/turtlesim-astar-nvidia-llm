@@ -48,11 +48,11 @@ pip install --upgrade --quiet llama-index-llms-nvidia
 ```
 Note: Ensure you have pip for Python 3. You might need to use pip3 instead.
 
-4. NVIDIA LLM SDK Setup:
+2. NVIDIA LLM SDK Setup:
 - Sign up for access to NVIDIA's language model API <a href="https://build.nvidia.com/">Link</a>.
 - Obtain your ```NVIDIA_API_KEY```.
 
-5. Configure Environment Variables
+3. Configure Environment Variables
 Export your NVIDIA API key as an environment variable:
 
 ```bash
