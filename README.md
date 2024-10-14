@@ -76,6 +76,7 @@ rosrun turtlesim turtlesim_node
 3. Run the Turtle Controller
 In a new terminal window, navigate to the project directory and run:
 ```bash
+cd scripts
 python3 turtlesim_nvidia_llm.py
 ```
 
